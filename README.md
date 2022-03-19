@@ -7,8 +7,8 @@
 **NIM: 201401035**  
 **Kom: A**  
 
-
-# Pertemuan 5
+# 
+# Pertemuan 5 (Membuat Kalkulator Sederhana)
 **PV_5_Kalkulator**
 > - Project Solution ini berupa program kalkulator sederhana yang akan meminta _input_ __Angka 1 dan Angka 2 serta operasi perhitungan yang diinginkan (+, -, *, /)__ yang kemudian hasil perhitungannya akan ditampilkan di Label Hasil.
 > - Folder ini merupakan project/solution __Windows Application__ SharpDevelop.
@@ -17,8 +17,8 @@
 > 
 > ![Screenshot Tugas Pertemuan 5](https://github.com/aNdr3W03/PemrogramanVisual/blob/main/%5BPV%5D%20-%20%5B5%5D%20Screenshot%201.png)
 
-
-# Pertemuan 4
+# 
+# Pertemuan 4 (Pemrograman Visual Sederhana)
 **1. PV_4_ButtonMessageBox**
 > - Project Solution ini akan meminta _input_ __Nama, NIM, Kelas, dan Mata Kuliah__ yang akan ditampilkan di MessageBox baru.
 > - Folder ini merupakan project/solution __Windows Application__ SharpDevelop.
@@ -35,8 +35,8 @@
 > 
 > ![Screenshot Tugas1 Pertemuan 4](https://github.com/aNdr3W03/PemrogramanVisual/blob/main/%5BPV%5D%20-%20%5B4%5D%20Screenshot%201.png)
 
-
-# Pertemuan 3
+# 
+# Pertemuan 3 (Pengenalan SharpDevelop)
 **1. PV_2_Tugas1_1**
 > - Project Solution ini akan menampilkan tulisan __Hello World__ di console.
 > - Folder ini merupakan project/solution __Console Application__ SharpDevelop.
