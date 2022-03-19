@@ -1,0 +1,5 @@
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_2_Tugas1_1\PV_2_Tugas1_1\bin\Debug\PV_2_Tugas1_1.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_2_Tugas1_1\PV_2_Tugas1_1\bin\Debug\PV_2_Tugas1_1.pdb
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_2_Tugas1_1\PV_2_Tugas1_1\obj\Debug\PV_2_Tugas1_1.csprojResolveAssemblyReference.cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_2_Tugas1_1\PV_2_Tugas1_1\obj\Debug\PV_2_Tugas1_1.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_2_Tugas1_1\PV_2_Tugas1_1\obj\Debug\PV_2_Tugas1_1.pdb
