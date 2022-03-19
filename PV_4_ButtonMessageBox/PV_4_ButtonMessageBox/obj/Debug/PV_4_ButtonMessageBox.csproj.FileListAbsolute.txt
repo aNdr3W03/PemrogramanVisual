@@ -1,0 +1,7 @@
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\obj\Debug\PV_4_ButtonMessageBox.csprojResolveAssemblyReference.cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\obj\Debug\PV_4_ButtonMessageBox.MainForm.resources
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\obj\Debug\PV_4_ButtonMessageBox.csproj.GenerateResource.Cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\bin\Debug\PV_4_ButtonMessageBox.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\bin\Debug\PV_4_ButtonMessageBox.pdb
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\obj\Debug\PV_4_ButtonMessageBox.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonMessageBox\PV_4_ButtonMessageBox\obj\Debug\PV_4_ButtonMessageBox.pdb

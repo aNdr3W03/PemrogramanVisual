@@ -1,0 +1,7 @@
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\obj\Debug\PV_4_ButtonNama.csprojResolveAssemblyReference.cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\obj\Debug\PV_4_ButtonNama.MainForm.resources
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\obj\Debug\PV_4_ButtonNama.csproj.GenerateResource.Cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\bin\Debug\PV_4_ButtonNama.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\bin\Debug\PV_4_ButtonNama.pdb
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\obj\Debug\PV_4_ButtonNama.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_4_ButtonNama\PV_4_ButtonNama\obj\Debug\PV_4_ButtonNama.pdb
