@@ -1,0 +1,7 @@
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\obj\Debug\PV_5_Kalkulator.csprojResolveAssemblyReference.cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\obj\Debug\PV_5_Kalkulator.MainForm.resources
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\obj\Debug\PV_5_Kalkulator.csproj.GenerateResource.Cache
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\bin\Debug\PV_5_Kalkulator.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\bin\Debug\PV_5_Kalkulator.pdb
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\obj\Debug\PV_5_Kalkulator.exe
+E:\4. Programming\[4] PRACTICE - C#\[2] Tugas PV\PV_5_Kalkulator\PV_5_Kalkulator\obj\Debug\PV_5_Kalkulator.pdb
