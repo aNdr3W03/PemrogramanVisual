@@ -10,6 +10,73 @@
 **Kom: A**  
 
 # 
+# Table of Contents
+| Pertemuan | Keterangan | Project File |
+|:---------:|:----------:|:------------|
+| 13 | [TextBox Validation](#pertemuan-13-textbox-validation-database-sql-server-dengan-c "TextBox Validation, Database SQL Server dengan C#")       | [[PV_13_Kasir-TextBoxValidation]](/PV_13_Kasir-TextBoxValidation "Project File") |
+| 12 | [Kode Barang Otomatis](#pertemuan-12-kode-barang-otomatis-database-sql-server-dengan-c "Kode Barang Otomatis, Database SQL Server dengan C#") | [[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File") |
+| 11 | [ComboBox Satuan](#pertemuan-11-combobox-satuan-database-sql-server-dengan-c "ComboBox, Database SQL Server dengan C#")                       | [[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File") |
+| 10 | [Search Data](#pertemuan-10-search-data-database-sql-server-dengan-c "Search Data, Database SQL Server dengan C#")                            | [[PV_10_Kasir-Search]](/PV_10_Kasir-Search "Project File") |
+| 9  | [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")                             | [[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File") |
+| 8  | [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")    | [[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File") |
+| 7  | [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")                             | [[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File") |
+| 6  | [Koneksi Database](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")                                 | [[PV_6_Kasir]](/PV_6_Kasir "Project File") |
+| 5  | [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")                                              | [[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File") |
+| 4  | [PV Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")                                  | [[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File") <br/> [[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File") |
+| 3  | [SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")                                                                | [[PV_3_Tugas1]](/PV_3_Tugas1 "Project File") <br/> [[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File") <br/> [[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File") |
+
+<!-- https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown -->
+
+<!--
+Pertemuan 13
+[TextBox Validation](#pertemuan-13-textbox-validation-database-sql-server-dengan-c "TextBox Validation, Database SQL Server dengan C#")
+[[PV_13_Kasir-TextBoxValidation]](/PV_13_Kasir-TextBoxValidation "Project File")
+
+Pertemuan 12
+[Kode Barang Otomatis](#pertemuan-12-kode-barang-otomatis-database-sql-server-dengan-c "Kode Barang Otomatis, Database SQL Server dengan C#")
+[[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File")
+
+Pertemuan 11
+[ComboBox Satuan](#pertemuan-11-combobox-satuan-database-sql-server-dengan-c "ComboBox, Database SQL Server dengan C#")
+[[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File")
+
+Pertemuan 10
+[Search Data](#pertemuan-10-search-data-database-sql-server-dengan-c "Search Data, Database SQL Server dengan C#")
+[[PV_10_Kasir-Search]](/PV_10_Kasir-Search "Project File")
+
+Pertemuan 9
+[Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")
+[[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File")
+
+Pertemuan 8
+[Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")
+[[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File")
+
+Pertemuan 7
+[Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")
+[[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File")
+
+Pertemuan 6
+[Koneksi Database](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")
+[[PV_6_Kasir]](/PV_6_Kasir "Project File")
+
+Pertemuan 5
+[Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")
+[[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File")
+
+Pertemuan 4
+[PV Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")
+[[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File")
+[[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File")
+
+Pertemuan 3
+[SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")
+[[PV_3_Tugas1]](/PV_3_Tugas1 "Project File")
+[[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File")
+[[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File")
+-->
+
+# 
 # Pertemuan 13 (TextBox Validation, Database SQL Server dengan C#)
 **PV_13_Kasir-TextBoxValidation**
 > - Project ini merupakan program untuk menampilkan data yang sudah ada di _database_, yaitu tabel **TBL_BARANG**, dan menampilkannya ke dalam tabel **DataGridView**. Pada bagian isian `Harga Jual`, `Harga Beli`, dan `Jumlah`, tidak bisa dilakukan _input_ selain angka (huruf, simbol), **hanya bisa diisi dengan angka** (_`number only`_). Sehingga mengurangi kesalahan yang mungkin akan dilakukan oleh _user_ (_human error_) dalam melakukan _input_ data. Hal ini akan meningkatkan kualitas aplikasi dari aspek _Control_ dan _Robustness_ dalam HCI (_Human Computer Intereaction_) dan UX (_User Experience_), sehingga _user_ tidak akan mungkin bisa salah memasukkan format _input_ "Harga Jual", "Harga Beli", dan "Jumlah" secara teknis.
@@ -34,7 +101,7 @@
 > ![Screenshot Tugas Pertemuan 12](Screenshot/%5BPV%5D%20-%20%5B12%5D%20Screenshot%201.png)
 
 # 
-# Pertemuan 11 (ComboBox, Database SQL Server dengan C#)
+# Pertemuan 11 (ComboBox Satuan, Database SQL Server dengan C#)
 **PV_11_Kasir-ComboBox**
 > - Project ini merupakan program untuk menampilkan data yang sudah ada di _database_, yaitu tabel **TBL_BARANG**, dan menampilkannya ke dalam tabel **DataGridView**. Pada bagian isian `Satuan`, _user_ tidak perlu mengetikkan satuan barang lagi, tetapi sudah ditambahkan fitur berupa `ComboBox` yang akan menampilkan **daftar _dropdown_ dari satuan** yang tersedia. Hal ini bertujuan agar mempermudah _user_ dalam melakukan _input_ data, sehingga aplikasi menjadi lebih efektif dan efisien, serta _user-friendly_ dalam meningkatkan kualitas aplikasi dari aspek _Task Compatibility_ dalam HCI (_Human Computer Intereaction_) dan UX (_User Experience_).
 > - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
