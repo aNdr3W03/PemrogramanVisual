@@ -13,6 +13,7 @@
 # Table of Contents
 | Pertemuan | Judul | Project File |
 |:---------:|:-----:|:-------------|
+| 14 | [Koneksi Database (Ms Access)](#pertemuan-14-koneksi-database-microsoft-access-dengan-c "Koneksi Database Microsoft Access dengan C#")       | [[PV_14_KoneksiMsAccess]](/PV_14_KoneksiMsAccess "Project File Pertemuan 14") |
 | 13 | [TextBox Validation](#pertemuan-13-textbox-validation-database-sql-server-dengan-c "TextBox Validation, Database SQL Server dengan C#")       | [[PV_13_Kasir-TextBoxValidation]](/PV_13_Kasir-TextBoxValidation "Project File Pertemuan 13") |
 | 12 | [Kode Barang Otomatis](#pertemuan-12-kode-barang-otomatis-database-sql-server-dengan-c "Kode Barang Otomatis, Database SQL Server dengan C#") | [[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File Pertemuan 12") |
 | 11 | [ComboBox Satuan](#pertemuan-11-combobox-satuan-database-sql-server-dengan-c "ComboBox, Database SQL Server dengan C#")                       | [[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File Pertemuan 11") |
@@ -20,7 +21,7 @@
 | 9  | [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")                             | [[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File Pertemuan 9") |
 | 8  | [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")    | [[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File Pertemuan 8") |
 | 7  | [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")                             | [[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File Pertemuan 7") |
-| 6  | [Koneksi Database](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")                                 | [[PV_6_Kasir]](/PV_6_Kasir "Project File Pertemuan 6") |
+| 6  | [Koneksi Database (SQL Server)](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")                                 | [[PV_6_Kasir]](/PV_6_Kasir "Project File Pertemuan 6") |
 | 5  | [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")                                              | [[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File Pertemuan 5") |
 | 4  | [Pemrograman Visual Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")                                  | [[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File Pertemuan 4") <br/> [[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File Pertemuan 4") |
 | 3  | [Pengenalan SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")                                                                | [[PV_3_Tugas1]](/PV_3_Tugas1 "Project File Pertemuan 3") <br/> [[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File Pertemuan 3") <br/> [[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File Pertemuan 3") |
@@ -28,53 +29,78 @@
 <!-- https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown -->
 
 <!--
+Pertemuan 14
+[Koneksi Database (Ms Access)](#pertemuan-14-koneksi-database-microsoft-access-dengan-c "Koneksi Database Microsoft Access dengan C#")
+[[PV_14_KoneksiMsAccess]](/PV_14_KoneksiMsAccess "Project File Pertemuan 14")
+
 Pertemuan 13
 [TextBox Validation](#pertemuan-13-textbox-validation-database-sql-server-dengan-c "TextBox Validation, Database SQL Server dengan C#")
-[[PV_13_Kasir-TextBoxValidation]](/PV_13_Kasir-TextBoxValidation "Project File")
+
+[[PV_13_Kasir-TextBoxValidation]](/PV_13_Kasir-TextBoxValidation "Project File Pertemuan 13")
 
 Pertemuan 12
 [Kode Barang Otomatis](#pertemuan-12-kode-barang-otomatis-database-sql-server-dengan-c "Kode Barang Otomatis, Database SQL Server dengan C#")
-[[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File")
+[[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File Pertemuan 12")
 
 Pertemuan 11
 [ComboBox Satuan](#pertemuan-11-combobox-satuan-database-sql-server-dengan-c "ComboBox, Database SQL Server dengan C#")
-[[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File")
+[[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File Pertemuan 11")
 
 Pertemuan 10
 [Search Data](#pertemuan-10-search-data-database-sql-server-dengan-c "Search Data, Database SQL Server dengan C#")
-[[PV_10_Kasir-Search]](/PV_10_Kasir-Search "Project File")
+[[PV_10_Kasir-Search]](/PV_10_Kasir-Search "Project File Pertemuan 10")
 
 Pertemuan 9
 [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")
-[[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File")
+[[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File Pertemuan 9")
 
 Pertemuan 8
 [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")
-[[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File")
+[[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File Pertemuan 8")
 
 Pertemuan 7
 [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")
-[[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File")
+[[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File Pertemuan 7")
 
 Pertemuan 6
-[Koneksi Database](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")
-[[PV_6_Kasir]](/PV_6_Kasir "Project File")
+[Koneksi Database (SQL Server)](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")
+[[PV_6_Kasir]](/PV_6_Kasir "Project File Pertemuan 6")
 
 Pertemuan 5
 [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")
-[[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File")
+[[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File Pertemuan 5")
 
 Pertemuan 4
 [PV Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")
 [[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File")
-[[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File")
+[[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File Pertemuan 4")
 
 Pertemuan 3
 [SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")
-[[PV_3_Tugas1]](/PV_3_Tugas1 "Project File")
+[[PV_3_Tugas1]](/PV_3_Tugas1 "Project File Pertemuan 3")
 [[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File")
 [[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File")
 -->
+
+# 
+# Pertemuan 14 (Koneksi Database Microsoft Access dengan C#)
+[[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
+**PV_14_KoneksiMsAccess**
+> - Project ini merupakan program untuk menampilkan data yang sudah di-_input_ di **Microsoft Access Database**, yaitu tabel **TBL_Barang**, dan menampilkannya dalam bentuk tabel **DataGridView**.
+> - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
+> - Dalam folder ini terdapat file Program `.sln` yang dapat dibuka dengan menggunakan Visual Studio.
+> - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
+> - Untuk file koneksi ke Database Microsoft Access terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
+> - File Microsoft Access Database terdapat pada file `DBBarang.mdb` yang terletak di direktori `/bin/x86/Debug/net6.0-windows/DBBarang.mdb`.
+> 
+> **Edit Column in Table (TBL_Barang) in Microsoft Access Database (DBBarang) Design View**  
+> ![Screenshot Tugas Pertemuan 14.1](Screenshot/%5BPV%5D%20-%20%5B14%5D%20Screenshot%201.png)
+> 
+> **Insert Data to Table (TBL_Barang) in Microsoft Access Database (DBBarang) Datasheet View**  
+> ![Screenshot Tugas Pertemuan 14.2](Screenshot/%5BPV%5D%20-%20%5B14%5D%20Screenshot%202.png)
+> 
+> **DataGridView from Database Table**  
+> ![Screenshot Tugas Pertemuan 14.3](Screenshot/%5BPV%5D%20-%20%5B14%5D%20Screenshot%203.png)
 
 # 
 # Pertemuan 13 (TextBox Validation, Database SQL Server dengan C#)
@@ -86,7 +112,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **TextBox Validation for "Harga Jual", "Harga Beli", "Jumlah" in Application (Kasir)**
+> **TextBox Validation for "Harga Jual", "Harga Beli", "Jumlah" in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 13](Screenshot/%5BPV%5D%20-%20%5B13%5D%20Screenshot%201.png)
 
 # 
@@ -99,7 +125,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Automatic "Kode Barang" in Application (Kasir)**
+> **Automatic "Kode Barang" in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 12](Screenshot/%5BPV%5D%20-%20%5B12%5D%20Screenshot%201.png)
 
 # 
@@ -112,7 +138,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **ComboBox "Satuan" in Application (Kasir)**
+> **ComboBox "Satuan" in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 11](Screenshot/%5BPV%5D%20-%20%5B11%5D%20Screenshot%201.png)
 
 # 
@@ -125,7 +151,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Search Data in Table (TBL_BARANG) in Application (Kasir)**
+> **Search Data in Table (TBL_BARANG) in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 10](Screenshot/%5BPV%5D%20-%20%5B10%5D%20Screenshot%201.png)
 
 # 
@@ -138,7 +164,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Delete Data to Table (TBL_BARANG) in Application (Kasir)**
+> **Delete Data to Table (TBL_BARANG) in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 9](Screenshot/%5BPV%5D%20-%20%5B9%5D%20Screenshot%201.png)
 
 # 
@@ -151,7 +177,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Edit and Update Data to Table (TBL_BARANG) in Application (Kasir)**
+> **Edit and Update Data to Table (TBL_BARANG) in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 8](Screenshot/%5BPV%5D%20-%20%5B8%5D%20Screenshot%201.png)
 
 # 
@@ -164,7 +190,7 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Insert Data to Table (TBL_BARANG) in Application (Kasir)**
+> **Insert Data to Table (TBL_BARANG) in Application (Kasir)**  
 > ![Screenshot Tugas Pertemuan 7](Screenshot/%5BPV%5D%20-%20%5B7%5D%20Screenshot%201.png)
 
 # 
@@ -177,10 +203,10 @@ Pertemuan 3
 > - Sedangkan jika hanya ingin melihat _source code_ Form Design-nya terdapat pada file `.cs` (C# Source File), yaitu `Form1.cs`.
 > - Untuk file koneksi ke Database SQL Server terdapat pada file `.cs` (C# Source File), yaitu `koneksi.cs`.
 > 
-> **Insert Data to Table (TBL_BARANG) in SQL Server Database (Kasir)**
+> **Insert Data to Table (TBL_BARANG) in SQL Server Database (Kasir)**  
 > ![Screenshot Tugas Pertemuan 6.1](Screenshot/%5BPV%5D%20-%20%5B6%5D%20Screenshot%201.png)
 > 
-> **DataGridView from Database Table**
+> **DataGridView from Database Table**  
 > ![Screenshot Tugas Pertemuan 6.2](Screenshot/%5BPV%5D%20-%20%5B6%5D%20Screenshot%202.png)
 
 # 
