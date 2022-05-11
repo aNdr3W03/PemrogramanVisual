@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "M60fQ7GibgeHWgPBI9PkWpdUFWo6PKg1cfy82fBfh0ZjSJ1pfEXSK1Ie4TBYTD0LhJESEY5OKxxY740QFRQ0QQ==",
+  "success": true,
+  "projectFilePath": "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_9_Kasir-Delete\\PV_9_KasirDelete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
