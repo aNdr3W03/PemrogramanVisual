@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\PV_14_KoneksiMsAccess.csproj": {}
+  },
+  "projects": {
+    "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\PV_14_KoneksiMsAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\PV_14_KoneksiMsAccess.csproj",
+        "projectName": "PV_14_KoneksiMsAccess",
+        "projectPath": "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\PV_14_KoneksiMsAccess.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\",
+        "outputPath": "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP.LAPTOP-S7KF7GKN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

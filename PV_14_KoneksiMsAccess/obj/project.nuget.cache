@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ij772cPbJSydwN7iAUOKJ4oU1v32pyNFUjXV6Zo/NLpfIABrDkbyc49m0Ho0RAR48OTbR880Ce5KHjyrv0wUZA==",
+  "success": true,
+  "projectFilePath": "E:\\4. Programming\\[4] PRACTICE - C#\\[2] Tugas PV\\PV_14_KoneksiMsAccess\\PV_14_KoneksiMsAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP.LAPTOP-S7KF7GKN\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
