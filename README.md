@@ -18,13 +18,13 @@
 | 12 | [Kode Barang Otomatis](#pertemuan-12-kode-barang-otomatis-database-sql-server-dengan-c "Kode Barang Otomatis, Database SQL Server dengan C#") | [[PV_12_Kasir-KodeAutomatic]](/PV_12_Kasir-KodeAutomatic "Project File Pertemuan 12") |
 | 11 | [ComboBox Satuan](#pertemuan-11-combobox-satuan-database-sql-server-dengan-c "ComboBox, Database SQL Server dengan C#")                       | [[PV_11_Kasir-ComboBox]](/PV_11_Kasir-ComboBox "Project File Pertemuan 11") |
 | 10 | [Search Data](#pertemuan-10-search-data-database-sql-server-dengan-c "Search Data, Database SQL Server dengan C#")                            | [[PV_10_Kasir-Search]](/PV_10_Kasir-Search "Project File Pertemuan 10") |
-| 9  | [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")                             | [[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File Pertemuan 9") |
-| 8  | [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")    | [[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File Pertemuan 8") |
-| 7  | [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")                             | [[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File Pertemuan 7") |
-| 6  | [Koneksi Database (SQL Server)](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")                                 | [[PV_6_Kasir]](/PV_6_Kasir "Project File Pertemuan 6") |
-| 5  | [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")                                              | [[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File Pertemuan 5") |
-| 4  | [Pemrograman Visual Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")                                  | [[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File Pertemuan 4") <br/> [[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File Pertemuan 4") |
-| 3  | [Pengenalan SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")                                                                | [[PV_3_Tugas1]](/PV_3_Tugas1 "Project File Pertemuan 3") <br/> [[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File Pertemuan 3") <br/> [[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File Pertemuan 3") |
+| 9  | [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")                             | [[PV_09_Kasir-Delete]](/PV_09_Kasir-Delete "Project File Pertemuan 9") |
+| 8  | [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")    | [[PV_08_Kasir-EditUpdate]](/PV_08_Kasir-EditUpdate "Project File Pertemuan 8") |
+| 7  | [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")                             | [[PV_07_Kasir-Insert]](/PV_07_Kasir-Insert "Project File Pertemuan 7") |
+| 6  | [Koneksi Database (SQL Server)](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")                                 | [[PV_06_Kasir]](/PV_06_Kasir "Project File Pertemuan 6") |
+| 5  | [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")                                              | [[PV_05_Kalkulator]](/PV_05_Kalkulator "Project File Pertemuan 5") |
+| 4  | [Pemrograman Visual Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")                                  | [[PV_04_ButtonMessageBox]](/PV_04_ButtonMessageBox "Project File Pertemuan 4") <br/> [[PV_04_ButtonNama]](/PV_04_ButtonNama "Project File Pertemuan 4") |
+| 3  | [Pengenalan SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")                                                                | [[PV_03_Tugas1]](/PV_03_Tugas1 "Project File Pertemuan 3") <br/> [[PV_02_Tugas1_2]](/PV_02_Tugas1_2 "Project File Pertemuan 3") <br/> [[PV_02_Tugas1_1]](/PV_02_Tugas1_1 "Project File Pertemuan 3") |
 
 <!-- https://stackoverflow.com/questions/46621765/can-i-merge-table-rows-in-markdown -->
 
@@ -52,34 +52,34 @@ Pertemuan 10
 
 Pertemuan 9
 [Delete Data](#pertemuan-9-delete-data-database-sql-server-dengan-c "Delete Data, Database SQL Server dengan C#")
-[[PV_9_Kasir-Delete]](/PV_9_Kasir-Delete "Project File Pertemuan 9")
+[[PV_09_Kasir-Delete]](/PV_09_Kasir-Delete "Project File Pertemuan 9")
 
 Pertemuan 8
 [Edit & Update Data](#pertemuan-8-edit-dan-update-data-database-sql-server-dengan-c "Edit dan Update Data, Database SQL Server dengan C#")
-[[PV_8_Kasir-EditUpdate]](/PV_8_Kasir-EditUpdate "Project File Pertemuan 8")
+[[PV_08_Kasir-EditUpdate]](/PV_08_Kasir-EditUpdate "Project File Pertemuan 8")
 
 Pertemuan 7
 [Insert Data](#pertemuan-7-insert-data-database-sql-server-dengan-c "Insert Data, Database SQL Server dengan C#")
-[[PV_7_Kasir-Insert]](/PV_7_Kasir-Insert "Project File Pertemuan 7")
+[[PV_07_Kasir-Insert]](/PV_07_Kasir-Insert "Project File Pertemuan 7")
 
 Pertemuan 6
 [Koneksi Database (SQL Server)](#pertemuan-6-koneksi-database-sql-server-dengan-c "Koneksi Database SQL Server dengan C#")
-[[PV_6_Kasir]](/PV_6_Kasir "Project File Pertemuan 6")
+[[PV_06_Kasir]](/PV_06_Kasir "Project File Pertemuan 6")
 
 Pertemuan 5
 [Kalkulator Sederhana](#pertemuan-5-membuat-kalkulator-sederhana "Membuat Kalkulator Sederhana")
-[[PV_5_Kalkulator]](/PV_5_Kalkulator "Project File Pertemuan 5")
+[[PV_05_Kalkulator]](/PV_05_Kalkulator "Project File Pertemuan 5")
 
 Pertemuan 4
 [PV Sederhana](#pertemuan-4-pemrograman-visual-sederhana "Pemrograman Visual Sederhana dengan SharpDevelop")
-[[PV_4_ButtonMessageBox]](/PV_4_ButtonMessageBox "Project File")
-[[PV_4_ButtonNama]](/PV_4_ButtonNama "Project File Pertemuan 4")
+[[PV_04_ButtonMessageBox]](/PV_04_ButtonMessageBox "Project File")
+[[PV_04_ButtonNama]](/PV_04_ButtonNama "Project File Pertemuan 4")
 
 Pertemuan 3
 [SharpDevelop](#pertemuan-3-pengenalan-sharpdevelop "Pengenalan SharpDevelop")
-[[PV_3_Tugas1]](/PV_3_Tugas1 "Project File Pertemuan 3")
-[[PV_2_Tugas1_2]](/PV_2_Tugas1_2 "Project File")
-[[PV_2_Tugas1_1]](/PV_2_Tugas1_1 "Project File")
+[[PV_03_Tugas1]](/PV_03_Tugas1 "Project File Pertemuan 3")
+[[PV_02_Tugas1_2]](/PV_02_Tugas1_2 "Project File")
+[[PV_02_Tugas1_1]](/PV_02_Tugas1_1 "Project File")
 -->
 
 # 
@@ -157,7 +157,7 @@ Pertemuan 3
 # 
 # Pertemuan 9 (Delete Data, Database SQL Server dengan C#)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**PV_9_Kasir-Delete**
+**PV_09_Kasir-Delete**
 > - Project ini merupakan program untuk menampilkan data yang sudah ada di _database_, yaitu tabel **TBL_BARANG**, dan menampilkannya ke dalam tabel **DataGridView**, serta _user_ dapat melakukan **_delete_ atau hapus data** dengan menekan tombol `Delete`.
 > - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
 > - Dalam folder ini terdapat file Program `.sln` yang dapat dibuka dengan menggunakan Visual Studio.
@@ -170,7 +170,7 @@ Pertemuan 3
 # 
 # Pertemuan 8 (Edit dan Update Data, Database SQL Server dengan C#)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**PV_8_Kasir-EditUpdate**
+**PV_08_Kasir-EditUpdate**
 > - Project ini merupakan program untuk menampilkan data yang sudah ada di _database_, yaitu tabel **TBL_BARANG**, dan menampilkannya ke dalam tabel **DataGridView**, serta _user_ dapat melakukan **_edit_ dan _update_ data** dengan menekan tombol `Update`.
 > - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
 > - Dalam folder ini terdapat file Program `.sln` yang dapat dibuka dengan menggunakan Visual Studio.
@@ -183,7 +183,7 @@ Pertemuan 3
 # 
 # Pertemuan 7 (Insert Data, Database SQL Server dengan C#)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**PV_7_Kasir-Insert**
+**PV_07_Kasir-Insert**
 > - Project ini merupakan program untuk menampilkan data yang sudah ada di _database_, yaitu tabel **TBL_BARANG**, dan menampilkannya ke dalam tabel **DataGridView**, serta _user_ dapat melakukan **tambah data** dengan menekan tombol `Simpan`.
 > - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
 > - Dalam folder ini terdapat file Program `.sln` yang dapat dibuka dengan menggunakan Visual Studio.
@@ -196,7 +196,7 @@ Pertemuan 3
 # 
 # Pertemuan 6 (Koneksi Database SQL Server dengan C#)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**PV_6_Kasir**
+**PV_06_Kasir**
 > - Project ini merupakan program untuk menampilkan data yang sudah di-_input_ di **SQL Server Database**, yaitu tabel **TBL_BARANG**, dan menampilkannya dalam bentuk tabel **DataGridView**.
 > - Folder ini merupakan project/solution **Windows Forms Application .NET Framework C#** Visual Studio.
 > - Dalam folder ini terdapat file Program `.sln` yang dapat dibuka dengan menggunakan Visual Studio.
@@ -212,7 +212,7 @@ Pertemuan 3
 # 
 # Pertemuan 5 (Membuat Kalkulator Sederhana)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**PV_5_Kalkulator**
+**PV_05_Kalkulator**
 > - Project Solution ini merupakan program kalkulator sederhana yang akan meminta _input_ **Angka 1 dan Angka 2 serta operasi perhitungan yang diinginkan (+, -, x, /)** yang kemudian hasil perhitungannya akan ditampilkan di Label Hasil.
 > - Folder ini merupakan project/solution **Windows Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
@@ -223,7 +223,7 @@ Pertemuan 3
 # 
 # Pertemuan 4 (Pemrograman Visual Sederhana)
 [[Table of Contents]](#table-of-contents "Ppintasan (Shortcut) untuk untuk pergi ke Daftar Isi (Table of Contents)")  
-**1. PV_4_ButtonMessageBox**
+**1. PV_04_ButtonMessageBox**
 > - Project Solution ini akan meminta _input_ **Nama, NIM, Kelas, dan Mata Kuliah** yang akan ditampilkan di MessageBox baru.
 > - Folder ini merupakan project/solution **Windows Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
@@ -231,7 +231,7 @@ Pertemuan 3
 > 
 > ![Screenshot Tugas2 Pertemuan 4](Screenshot/%5BPV%5D%20-%20%5B4%5D%20Screenshot%202.png)
 
-**2. PV_4_ButtonNama**
+**2. PV_04_ButtonNama**
 > - Project Solution ini akan meminta _input_ **Nama** yang akan ditampilkan di MessageBox baru.
 > - Folder ini merupakan project/solution **Windows Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
@@ -242,7 +242,7 @@ Pertemuan 3
 # 
 # Pertemuan 3 (Pengenalan SharpDevelop)
 [[Table of Contents]](#table-of-contents "Pintasan (Shortcut) untuk untuk pergi/kembali ke Daftar Isi (Table of Contents)")  
-**1. PV_2_Tugas1_1**
+**1. PV_02_Tugas1_1**
 > - Project Solution ini akan menampilkan tulisan **Hello World** di console.
 > - Folder ini merupakan project/solution **Console Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
@@ -250,7 +250,7 @@ Pertemuan 3
 > 
 > ![Screenshot Tugas1.1 Pertemuan 2](Screenshot/%5BPV%5D%20-%20%5B3%5D%20Screenshot%201.png)
 
-**2. PV_2_Tugas1_2**
+**2. PV_02_Tugas1_2**
 > - Project Solution ini akan meminta _input_ **Nama Anda** di _console_ dan menampilkannya.
 > - Folder ini merupakan project/solution **Console Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
@@ -258,7 +258,7 @@ Pertemuan 3
 > 
 > ![Screenshot Tugas1.2 Pertemuan 2](Screenshot/%5BPV%5D%20-%20%5B3%5D%20Screenshot%202.png)
 
-**3. PV_3_Tugas1**
+**3. PV_03_Tugas1**
 > - Project Solution ini akan meminta _input_ **Nama Mahasiswa** di TextBox, lalu menambahkannya ke **ListBox** dengan menekan Button **Tambah**. _User_ juga dapat menghapus daftar di **ListBox** dengan menekan tombol **Hapus**.
 > - Folder ini merupakan project/solution **Windows Application** SharpDevelop.
 > - Dalam folder ini terdapat file Solution `.sln` yang dapat dibuka dengan menggunakan SharpDevelop.
