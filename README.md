@@ -1,7 +1,7 @@
 # Pemrograman Visual
 #### Tugas Mata Kuliah Pemrograman Visual
 #### Dosen Pengampu: T. Henny Febriana Harumy, S.Kom., M.Kom.
-#### Tahun Ajaran: Genap 2020/2021
+#### Tahun Ajaran: Genap 2021/2022
 #### Ilmu Komputer - Universitas Sumatera Utara
 
 # 
